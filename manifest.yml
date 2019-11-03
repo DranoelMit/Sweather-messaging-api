@@ -1,0 +1,5 @@
+---
+applications:
+- name: sweather-messaging-api
+memory: 128M
+---

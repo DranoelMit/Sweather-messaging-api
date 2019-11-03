@@ -1,0 +1,24 @@
+{
+  "name": "sweather-messaging-api",
+  "version": "1.0.0",
+  "description": "HackRPI 2019",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DranoelMit/Sweather-messaging-api.git"
+  },
+  "author": "Tim Leonard, Charles Fee, Marcus Panozzo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DranoelMit/Sweather-messaging-api/issues"
+  },
+  "homepage": "https://github.com/DranoelMit/Sweather-messaging-api#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^6.4.0",
+    "express": "^4.17.1",
+    "twilio": "^3.37.0"
+  }
+}
